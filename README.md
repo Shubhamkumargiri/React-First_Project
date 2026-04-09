@@ -1,1 +1,1 @@
-Project Name is cards project just for demo 
+This cards project just for demo 
